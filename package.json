@@ -1,5 +1,5 @@
 {
-  "name": "@hinh-eoh/react-native-modal-datetime-picker",
+  "name": "@eohjsc/modal-date-picker",
   "version": "1.0.0",
   "description": "A react-native datetime-picker for Android and iOS",
   "main": "src/index.js",
@@ -20,10 +20,10 @@
   ],
   "author": "Mazzarolo Matteo",
   "license": "MIT",
-  "homepage": "https://github.com/hinh-eoh/react-native-modal-datetime-picker",
+  "homepage": "https://github.com/hinh-eoh/modal-date-picker#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hinh-eoh/react-native-modal-datetime-picker"
+    "url": "git+https://github.com/hinh-eoh/modal-date-picker.git"
   },
   "scripts": {
     "lint": "eslint src",
